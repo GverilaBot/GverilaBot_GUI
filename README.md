@@ -8,13 +8,13 @@ Prerequisites:
 * ROS Melodic  (other versions are not supported)
 ## Instructions:
 
-1. Install [GverilaBot](https://github.com/SimonKajsner/GverilaBot_ROS) ROS stack.
+1. Install [GverilaBot](https://github.com/GverilaBot/GverilaBot_ROS) ROS stack.
 
 2. Create folder and clone GverilaBot_GUI repository.
 ```
 mkdir -p  ~/GverilaBot_GUI/web_gui
 cd ~/GverilaBot_GUI/web_gui
-git clone https://github.com/SimonKajsner/GverilaBot_ROS.git
+git clone https://github.com/GverilaBot/GverilaBot_ROS.git
 ```
 3. Launch GverilaBot simulation in new terminal.
 ```
