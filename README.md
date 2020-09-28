@@ -14,7 +14,7 @@ Prerequisites:
 ```
 mkdir -p  ~/GverilaBot_GUI/web_gui
 cd ~/GverilaBot_GUI/web_gui
-git clone https://github.com/GverilaBot/GverilaBot_ROS.git
+git clone https://github.com/GverilaBot/GverilaBot_GUI.git
 ```
 3. Launch GverilaBot simulation in new terminal.
 ```
